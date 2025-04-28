@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Tips membuka dan mengelola internet kafe dengan efektif.
 date: 2025-04-09T10:00:00.000Z  
 featuredpost: false
-featuredimage: /img/irigasi.png
+featuredimage: /img/net10.png
 description:  Membuka internet kafe tidak harus mahal dan rumit. Artikel ini membahas berbagai tips sederhana namun efektif untuk membangun dan mengelola internet kafe misamoNet, khususnya bagi pemula.
 tags:
   - internet kafe 

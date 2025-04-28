@@ -3,7 +3,7 @@ templateKey: blog-post
 title:  cara memilih koneksi berkualitas untuk internet kafe
 date: 2025-04-01T10:00:00.000Z  
 featuredpost: false
-featuredimage: /img/subur.jpg
+featuredimage: /img/net9.png
 description: memilih koneksi internet berkualitas adalah kunci utama kesuksesan internet kafe. Yuk, cari tau bagaimana cara memilih layanan internet terbaik untuk pengalaman pelanggan yang maksimal.
 tags:
   - internet kafe
