@@ -1,15 +1,15 @@
 ---
 templateKey: blog-post
-title: Cara Menanam Cabai di Rumah
+title: Cara membuka usaha internet kafe.
 date: 2025-04-14T10:00:00.000Z  
 featuredpost: false
 featuredimage: /img/cabai.jpg
-description: Ingin punya panen cabai segar di rumah? Yuk, simak panduan lengkap cara menanam cabai di rumah mulai dari pemilihan bibit, media tanam, hingga perawatannya.
+description: Ingin membuka internet kafe sendiri? Yuk, simak panduan lengkap cara membangun internet kafe mulai dari persiapan modal, pemilihan lokasi, hingga perawatan dan promosinya.
 tags:
-  - cabai
-  - pertanian
-  - tanaman sayur
-  - urban farming
+  - internet kafe
+  - bisnis
+  - wirausaha
+  - teknologi
 ---
 ![cabai](/img/cabai.jpg)
 
