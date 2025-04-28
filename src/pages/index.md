@@ -1,56 +1,61 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/tani2.png
+image: /img/net.png
 heading: Apa yang Kami Tawarkan?
-subheading: Support sustainable farming while enjoying a cup  # menghapus semua subheading di index-page.js jikamau di hapus kcuali yg oren
+subheading: Nikmati internet super cepat dan suasana nyaman seperti kafe  # menghapus semua subheading di index-page.js jikamau di hapus kcuali yg oren
 mainpitch:
-  title: Kenapa AlamTani?
+  title: SELAMAT DATANG DI misamoNet
 
   description: >
-    AlamTani adalah platform untuk semua orang yang peduli dengan pertanian berkelanjutan dan ingin mendukung petani lokal.
-    Kami percaya bahwa pertanian yang baik bukan hanya menghasilkan produk berkualitas, 
-    tetapi juga memberikan dampak positif bagi lingkungan dan kesejahteraan petani.
+    Internet kafe dengan internet super cepat dan suasana nyaman seperti kafe
+    Bersantai, bekerja, atau bermain game di ruang yang nyaman dengan akses internet tanpa batas.
 
 description: >-
-  ✅ Produk Pertanian Berkualitas
-  Kami menyediakan berbagai produk pertanian, mulai dari hasil panen segar, benih unggul, pupuk organik dan non-organik, hingga alat pertanian modern. Semua produk yang dijual di AlamTani berasal dari petani dan produsen terpercaya, memastikan kualitas terbaik bagi konsumen.
-  ✅ Buah Segar Langsung dari Petani
-  Kami menjual berbagai jenis buah-buahan segar langsung dari sumbernya, tanpa perantara yang memperpanjang rantai distribusi. Dengan begitu, konsumen mendapatkan produk dengan kesegaran maksimal, sementara petani mendapatkan harga yang lebih adil.
-  subdescription: >-  #membuat subdescription liat di tempates/index-page.js
-  ✅ Edukasi & Informasi Seputar Pertanian
-  Kami memahami bahwa pertanian bukan hanya tentang menjual produk, tetapi juga tentang berbagi ilmu. AlamTani memiliki blog dan artikel edukatif yang membahas teknologi pertanian terbaru, teknik budidaya yang efektif, strategi pemasaran hasil panen, serta inovasi yang dapat meningkatkan produktivitas petani.
-subdescription: >-  #membuat subdescription liat di tempates/index-page.js
-  AlamTani bukan sekadar sumber informasi, tetapi juga ruang belajar, berbagi, dan berkolaborasi. 
-  Kami percaya bahwa dengan pertanian yang lebih baik, kita bisa menciptakan dunia yang lebih sejahtera. 🌱✨
+  ✅ Internet kafe dengan koneksi super cepat, nyaman, dan suasana seperti di kafe.
+
+  ✅ Nikmati waktu Anda sambil berselancar di dunia maya, bekerja, atau bersantai bersama teman-teman.
+
+  ✅ Kami menyediakan ruang yang nyaman dengan akses internet tanpa batas, cocok untuk berbagai kebutuhan Anda.
+
+  ✅ Informasi Seputar internet kafe
+  
+   MisamoNet adalah tempat sempurna untuk bekerja, belajar, bermain game, atau hanya bersantai sambil menikmati suasana nyaman dengan internet yang cepat.
+
+subdescription: #membuat subdescription liat di tempates/index-page.js
+ MisamoNet adalah tempat sempurna untuk bekerja, belajar, bermain game, atau hanya bersantai sambil menikmati suasana nyaman dengan internet yang cepat.
+
 
 intro:  
   blurbs:
-    - image: /img/pupuk.png
+    - image: /img/net1.png
       text: >
-       Kami menyediakan berbagai jenis pupuk berkualitas tinggi yang bersumber langsung dari produsen terpercaya dan petani lokal. Mulai dari pupuk organik, pupuk cair, hingga pupuk berbasis teknologi modern, semuanya dirancang untuk mendukung pertumbuhan tanaman yang sehat dan hasil panen yang melimpah. Kami berkomitmen untuk menyediakan produk ramah lingkungan yang membantu meningkatkan produktivitas pertanian.
-    - image: /img/tanaman.webp
+          Kami menawarkan koneksi internet super cepat yang stabil untuk berbagai kebutuhan Anda,
+          mulai dari browsing, bekerja, hingga gaming. Jangan khawatir tentang gangguan,
+          kami pastikan Anda tetap terhubung.
+    - image: /img/net2.png
       text: >
-        Kami menawarkan berbagai jenis tanaman yang telah dipilih dengan cermat untuk memenuhi kebutuhan penghobi hingga pelaku agribisnis. Baik Anda seorang pemula yang baru memulai hobi berkebun atau seorang petani berpengalaman, kami menyediakan beragam tanaman mulai dari bibit buah,hingga tanaman herbal yang siap tumbuh subur di lingkungan Anda.
-    - image: /img/buah.png
+          Komputer kami dilengkapi dengan perangkat terbaru dan sistem operasi terbaik,
+          siap digunakan untuk berbagai keperluan, baik itu bekerja, belajar, atau bermain game.
+    - image: /img/net3.png
       text: >
-        Kami juga menawarkan beragam buah-buahan segar yang dipanen langsung dari sumber terpercaya. Dengan menjaga kualitas dan kesegarannya, kami menyediakan buah untuk konsumsi pribadi, bisnis kuliner, hingga keperluan grosir. Setiap buah dipilih dengan cermat dan didistribusikan dengan standar tinggi agar tetap segar, bernutrisi, dan siap dinikmati kapan saja.
-    - image: /img/pertanian.png
+          Kami menyediakan PC gaming berkualitas tinggi, ideal untuk para gamer yang ingin bermain dengan performa terbaik.
+          Anda bisa bermain game multiplayer atau game favorit Anda dengan lancar.
+    - image: /img/net4.png
       text: >
-        Kami juga menyediakan blog edukasi seputar pertanian yang menyajikan berbagai informasi bermanfaat bagi petani, penghobi, dan pelaku agribisnis. Dari teknik bercocok tanam yang efisien, tips perawatan tanaman, hingga inovasi terbaru di dunia pertanian, kami hadir untuk membantu Anda memahami dan mengembangkan potensi pertanian dengan lebih baik.
-  heading: What we offer
+          Selain internet cepat, kami juga menyediakan area nyaman dengan tempat duduk yang santai,
+          sehingga Anda bisa bekerja, belajar, atau bersantai sambil menikmati suasana yang tenang.
+  heading: Apa yang kami tawarkan
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+      Di misamoNet, kami menyediakan lingkungan yang ideal bagi Anda yang membutuhkan akses internet cepat,
+      nyaman, dan tempat yang tenang untuk bekerja atau bersantai.
+      Nikmati waktu Anda dengan layanan internet terbaik di kota.
 main:
-  heading: Great coffee with no compromises
+  heading: Internet Tanpa Batas, Suasana Nyaman
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami memastikan Anda memiliki akses internet super cepat dan stabil untuk semua aktivitas Anda.
+    Dengan ruang yang nyaman, Anda bisa bekerja, belajar, atau bermain tanpa gangguan.
+    Temukan kenyamanan di misamoNet.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg

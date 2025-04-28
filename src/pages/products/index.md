@@ -1,31 +1,27 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: AlamTani Produk
+title: misamoNet Produk
 image: /img/produk1.png
-heading: Produk Pertanian Berkualitas
+heading: Produk internet kafe berkualitas
 description: >-
- AlamTani.ID adalah platform bagi mereka yang peduli dengan kualitas dan keberlanjutan pertanian. Kami menghadirkan berbagai produk pertanian terbaik, mulai dari bibit unggul, pupuk berkualitas, hingga buah-buahan segar yang langsung diperoleh dari petani.🌱✨
+ misamoNet adalah platform bagi mereka yang peduli dengan efisiensi dan perkembangan dunia internet kafe. Kami menghadirkan berbagai produk terbaik untuk kebutuhan operasional warnet—mulai dari perangkat komputer, jaringan, aksesori, hingga software manajemen yang siap pakai dan terpercaya.
+
+
 intro:
   blurbs:
-    - image: /img/bibit.png
+    - image: /img/net5.png
       text: >
-       Kami menjual bibit durian Musang King berkualitas tinggi yang berasal langsung dari pembibitan terpercaya dan petani berpengalaman. Kami bangga menawarkan varietas durian unggulan yang ditanam dengan penuh perhatian untuk memastikan tanaman yang sehat dan siap tumbuh subur. Cek postingan kami atau hubungi kami langsung untuk ketersediaan terbaru.
-    - image: /img/bibit-alfukat.png
+       Kami menjual perangkat komputer dan aksesoris internet kafe berkualitas tinggi yang dipilih langsung dari distributor terpercaya dan teknisi berpengalaman. Kami bangga menawarkan produk unggulan—mulai dari PC, monitor, headset, hingga perangkat jaringan—yang siap pakai dan tahan lama untuk mendukung operasional warnet Anda.
+    - image: /img/net6.png
       text: >
-        Kami menjual bibit alpukat mentega unggulan yang siap tanam. Dengan kualitas terbaik, bibit ini menghasilkan buah berdaging tebal, lembut, dan kaya nutrisi. Cocok untuk budidaya di berbagai kondisi tanah. Hubungi kami untuk informasi lebih lanjut dan pemesanan!
-    - image: /img/alfukat.png
+        Kami menyediakan tempat nongkrong asik di internet kafe kami, lengkap dengan perangkat berkualitas tinggi untuk menunjang kenyamanan Anda. Mulai dari komputer performa tinggi, monitor jernih, headset nyaman, hingga jaringan internet cepat, semua tersedia untuk membuat pengalaman nongkrong dan bermain Anda semakin seru.
+    - image: /img/net7.png
       text: >
-       Kami juga menyediakan buah alpukat mentega segar dengan daging tebal, tekstur lembut, dan rasa yang kaya. Dipetik langsung dari kebun berkualitas, alpukat kami cocok untuk konsumsi langsung, jus, maupun olahan makanan lainnya. Dapatkan alpukat terbaik hanya di tempat kami!
-    - image: /img/durian.png
+       Kami juga menyediakan beragam pilihan makanan dan minuman lezat di internet kafe kami. Mulai dari camilan ringan, makanan berat, hingga minuman segar untuk menemani waktu nongkrong dan bermain Anda. Semua disajikan dengan bahan berkualitas untuk memastikan pengalaman Anda semakin lengkap dan menyenangkan.
+    - image: /img/net8.jpg
       text: >
-         Kami juga menyediakan durian lokal segar yang dipanen langsung dari pohonnya. Dengan kualitas terjamin, durian yang kami tawarkan memiliki rasa autentik dan daging buah yang tebal. Hubungi kami untuk informasi lebih lanjut mengenai ketersediaan dan pemesanan.
-    - image: /img/urea.png
-      text: >
-        "Kami menjual pupuk urea berkualitas tinggi yang dapat memberikan hasil maksimal untuk pertumbuhan tanaman Anda. Dengan kandungan nitrogen yang optimal, urea ini mendukung tanaman untuk tumbuh subur, meningkatkan hasil panen, dan memperbaiki kualitas tanah. Cocok digunakan untuk berbagai jenis tanaman.
-    - image: /img/rounup.png
-      text: >
-        "Kami menjual Roundup, herbisida unggulan yang efektif membasmi gulma dengan hasil maksimal. Dengan formulasi terbaik, produk ini bekerja cepat dan aman digunakan pada berbagai jenis tanaman. Cocok untuk memastikan kebun Anda bebas dari gulma dan mendukung pertumbuhan tanaman yang optimal. 
+         Kami juga menyediakan layanan print dan fotokopi dengan hasil cepat dan kualitas terbaik. Cocok untuk kebutuhan dokumen pribadi, tugas sekolah, hingga keperluan bisnis. Hubungi kami untuk informasi lebih lanjut mengenai layanan dan harga.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

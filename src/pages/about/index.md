@@ -1,21 +1,23 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: Tentang AlamTani.id
+title: Tentang misamoNet
 ---
-Di era digital ini, pertanian bukan hanya tentang menanam dan memanen—ini tentang inovasi, konektivitas, dan keberlanjutan. AlamTani.id hadir sebagai platform marketplace pertanian yang memungkinkan petani, pelaku usaha, dan konsumen untuk terhubung dalam satu ekosistem digital. Selain itu, kami juga menyediakan blog edukatif untuk memberikan wawasan dan informasi terbaru tentang dunia pertanian. Kami juga berfokus pada penjualan buah-buahan segar, langsung dari petani ke konsumen, memastikan kualitas terbaik dengan harga yang bersaing.
+MisamoNet adalah penyedia layanan internet dan teknologi yang berfokus pada kecepatan, stabilitas, dan kenyamanan. Kami hadir untuk memenuhi kebutuhan digital Anda, mulai dari koneksi internet super cepat, fasilitas gaming berkualitas, hingga area kerja dan belajar yang nyaman.
+Dengan perangkat terbaru dan dukungan tim profesional, MisamoNet siap menjadi solusi digital terbaik bagi Anda yang ingin tetap produktif dan terhibur setiap saat.
+### Apa yang Kami punya?
 
-### Apa yang Kami buat?
+- **jual beli peralatan internet kafe**  -Memfasilitasi transaksi jual beli perangkat keras dan perangkat lunak untuk internet kafe, mulai dari komputer, router, kursi, meja, hingga perangkat pendukung lainnya.
+                            
+- **penyedia layanan & software**  -Menyediakan berbagai layanan dan perangkat lunak untuk kebutuhan manajemen warnet, seperti sistem pembukuan, manajemen akses internet, dan software pengatur penggunaan komputer.
 
-- **Marketplace Pertanian** Marketplace Pertanian – Mempermudah transaksi jual beli hasil pertanian, benih, pupuk, alat pertanian, 
-                            serta buah-buahan segar dalam satu platform digital.
-- **Edukasi & Informasi** –Edukasi & Informasi – Menyediakan blog dengan artikel, panduan, dan 
-                           berita terbaru seputar pertanian modern dan tradisional.
-- **Distribusi Buah Berkualitas** Distribusi Buah Berkualitas – Menawarkan berbagai jenis buah-buahan segar dari petani langsung ke konsumen, dengan sistem distribusi yang efisien dan terpercaya.
+- **Edukasi & Informasi untuk pemilik internet kafe**  -Memberikan artikel, panduan, dan tips seputar pengelolaan warnet, termasuk cara meningkatkan kenyamanan pelanggan, mengoptimalkan operasional, dan memaksimalkan profit.
+### Kenapa misamoNet?
 
-### Kenapa AlamTani.id?
+✅ **Marketplace Terlengkap untuk warnet** –  Tempat terbaik untuk membeli dan menjual perlengkapan internet kafe, mulai dari PC, jaringan, kursi, hingga software manajemen, semua dengan transaksi yang aman dan mudah.
 
-✅ **Marketplace Terlengkap** – Tempat terbaik untuk membeli dan menjual produk pertanian, termasuk buah-buahan segar dengan transaksi yang aman dan mudah.
-✅ **Sumber Informasi Terpercaya** – Blog pertanian dengan konten berkualitas, berbasis riset, dan pengalaman langsung di lapangan..
-✅ **Buah Segar Langsung dari Petani** – Menjamin kualitas dan harga terbaik dengan sistem distribusi yang efisien.
+✅ **Sumber Informasi Terpercaya** – Blog teknologi dan manajemen warnet dengan konten berkualitas, berbasis pengalaman langsung dan update terkini dari dunia digital.
+
+✅ **Solusi langsung untuk pemilik warnet** –  Menyediakan kebutuhan operasional secara efisien dan hemat, langsung dari penyedia terpercaya, tanpa ribet.
+
 

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import github from "../img/wa.png";
-import logo from "../img/Foto1.png";
+import logo from "../img/logo.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -66,7 +66,7 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href=" https://wa.me/6282210464660"
+              href=" https://wa.me/6282114870063"
               target="_blank"
               rel="noopener noreferrer"
             >
