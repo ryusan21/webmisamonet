@@ -11,7 +11,7 @@ tags:
   - koneksi internet 
   - misamoNet
 ---
-![bibit berkualitas](/img/subur.jpg)
+![bibit berkualitas](/img/blognet.png)
 
 Salah satu rahasia sukses menjalankan internet kafe seperti *misamoNet* terletak pada langkah awal yang sering kali diabaikan: memilih koneksi internet yang tepat. Koneksi yang cepat dan stabil akan membuat pelanggan betah, sedangkan koneksi yang lambat bisa membuat mereka kabur.
 

@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: misamoNet Produk
-image: /img/produk1.png
+image: /img/netproduct.png
 heading: Produk internet kafe berkualitas
 description: >-
  misamoNet adalah platform bagi mereka yang peduli dengan efisiensi dan perkembangan dunia internet kafe. Kami menghadirkan berbagai produk terbaik untuk kebutuhan operasional warnet—mulai dari perangkat komputer, jaringan, aksesori, hingga software manajemen yang siap pakai dan terpercaya.
@@ -34,15 +34,16 @@ main:
     Kami menjaga kualitas setiap produk pertanian dari awal hingga akhir—mulai dari pemilihan benih unggul hingga hasil panen tiba di tangan Anda. Setiap proses dilakukan secara teliti dan transparan. Kami bekerja langsung dengan petani lokal untuk memastikan bahwa setiap tanaman tumbuh sehat, lingkungan tetap lestari, dan kesejahteraan petani terjaga.
   image3:
     alt: Coffee beans
-    image: /img/produk2.png
+    image: /img/misamo.png
 testimonials:
-  - author: hermina
+  - author: dini
     quote: >-
-      "Pertama kali saya mencoba buah-buahan dari AlamTani, saya langsung merasakan perbedaannya. Rasanya lebih manis dan segar, benar-benar kualitas terbaik yang tidak bisa saya temukan di tempat lain."
-  - author: supriyanto
+     "misamoNet bukan sekadar tempat berselancar di dunia maya—ini adalah ruang di mana koneksi digital melahirkan pertemanan    
+      nyata, dan ide-ide hebat dimulai."
+  - author: momo
     quote: >-
-      "AlamTani adalah pilihan tepat jika Anda mencari pupuk dan tanaman berkualitas. Saya sangat terkesan dengan produk mereka yang selalu mendukung pertanian berkelanjutan dan pemberdayaan petani lokal."
-full_image: /img/produk3.png
+      "Ngopi, nge-game, atau sekadar scroll medsos—semuanya lebih seru di misamoNet. Tempat nongkrong online rasa offline!"
+full_image: /img/nini.png
 pricing:
   heading: Monthly subscriptions
   description: >-

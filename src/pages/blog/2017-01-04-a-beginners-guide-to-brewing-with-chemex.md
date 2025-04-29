@@ -11,7 +11,7 @@ tags:
   - warnet
   - teknologi 
 ---
-![irigasi sederhana](/img/irigasi.png)
+![irigasi sederhana](/img/nana.png)
 
 Membangun dan mengelola internet kafe adalah peluang bisnis yang menarik, terutama di daerah yang masih membutuhkan akses internet cepat dan fasilitas komputer. Namun, banyak orang berpikir membuka warnet itu mahal dan rumit.
 
